@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyNewProject</string>
+
+    <string name="digit">ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz  </string>
+
+
+</resources>
